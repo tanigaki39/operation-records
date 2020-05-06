@@ -19,7 +19,7 @@
     "lint": "eslint src/**/*.{ts,tsx}",
     "tsc": "tsc",
     "build": "webpack",
-    "test": "jest"
+    "deploy": "gh-pages -d ./dist"
   },
   "dependencies": {
     "@babel/preset-env": "^7.8.3",
@@ -54,6 +54,7 @@
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.17.0",
+    "gh-pages": "^2.2.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1",
