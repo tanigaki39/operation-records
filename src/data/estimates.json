@@ -1,0 +1,27 @@
+[
+  {
+    "clientCode": "C19000",
+    "items": [
+      {
+        "estimateNumber": "E1911027",
+        "price": 2900000,
+        "label": "酪農乳業速報アプリ"
+      },
+      {
+        "estimateNumber": "E1911042",
+        "price": 1620000,
+        "label": "ランディングページ"
+      }
+    ]
+  },
+  {
+    "clientCode": "C19001",
+    "items": [
+      {
+        "estimateNumber": "E1911043",
+        "price": 1000000,
+        "label": "Webコンサルティング費用"
+      }
+    ]
+  }
+]
